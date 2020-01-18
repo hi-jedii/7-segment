@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\7 segment ni Jed.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\_7_segment_ni_Jed.Form1.resources
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\_7_segment_ni_Jed.Resources.resources
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\7 segment ni Jed.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\bin\Debug\7 segment ni Jed.exe.config
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\bin\Debug\7 segment ni Jed.exe
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\bin\Debug\7 segment ni Jed.pdb
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\bin\Debug\7 segment ni Jed.xml
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\7 segment ni Jed.exe
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\7 segment ni Jed.xml
+C:\Users\Administrator\source\repos\7 segment ni Jed\7 segment ni Jed\obj\Debug\7 segment ni Jed.pdb
